@@ -3,7 +3,7 @@ body{
 }
 
 .parallax1{
-    background-image: url(chicago.jpg);
+    background-image: url(Chicago.jpg);
     height: 500px;
 
     background-attachment: fixed;
